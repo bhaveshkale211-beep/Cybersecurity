@@ -12,6 +12,7 @@ This repository tracks my day-to-day coursework from a structured institute prog
 🏫 Source: Daily assignments/Practicals (hands on labs)
 📂 Structure: Organized by module, with each assignment documented in its own folder
 🗂️ Repository Structure
+
 Cybersecurity/
 ├── README (MAIN).md                              ← Introduction
 ├── Module-01-.../
