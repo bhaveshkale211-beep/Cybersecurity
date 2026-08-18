@@ -13,7 +13,8 @@ This repository tracks my day-to-day coursework from a structured institute prog
 📂 Structure: Organized by module, with each assignment documented in its own folder
 🗂️ Repository Structure
 
-''' Cybersecurity/
+```
+ Cybersecurity/
 ├── README (MAIN).md                              ← Introduction
 ├── Module-01-.../
 │   ├── README (MODULE).md                        ← module overview
@@ -65,7 +66,7 @@ This repository tracks my day-to-day coursework from a structured institute prog
 |   |
 ├── Module-02-.../
 ├── Module-03-.../
-└── ...'''
-
+└── ...
+```
 Each module folder contains the individual assignments that belong to it. 
 Each assignment folder has its own README explaining what it covers, the tools used, and key takeaways — along with any supporting files (notes, configs, scripts, or screenshots).
