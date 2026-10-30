@@ -1,0 +1,10 @@
+INFO User admin logged in successfully
+WARNING Multiple login attempts detected
+ERROR Database connection failed
+INFO User guest logged in
+FAILED LOGIN User test from 192.168.1.10
+WARNING Unusual network activity detected
+ERROR Authentication service unavailable
+FAILED LOGIN User admin from 192.168.1.20
+INFO System backup completed
+WARNING High number of requests detected
