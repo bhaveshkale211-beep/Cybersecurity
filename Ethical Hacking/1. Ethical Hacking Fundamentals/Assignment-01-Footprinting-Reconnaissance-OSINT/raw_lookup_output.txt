@@ -1,0 +1,39 @@
+Target: itvedant.com
+Purpose: Demonstration of passive information gathering
+Scope: Publicly available information only
+
+
+Domain name : itvedant.com
+
+Registrar : BigRock Solutions Ltd.
+
+Domain status : clientTransferProhibited
+
+Registration/expiration information : 
+Registered On:
+2012-12-16
+Expires On:
+2032-12-16
+Updated On:
+2023-11-24
+
+Name servers : 
+CHUCK.NS.CLOUDFLARE.COM
+MELINDA.NS.CLOUDFLARE.COM
+
+Domain IP :
+Server:  UnKnown
+Address:  192.168.1.1
+Non-authoritative answer:
+Name:    itvedant.com
+Addresses:  2606:4700:90d8:8cde:af0d:8ba:9c3c:ee7c
+          104.26.5.214
+          104.26.4.214
+          172.67.74.120
+
+Name Server : 
+Server:  UnKnown
+Address:  192.168.1.1
+Non-authoritative answer:
+example.com     nameserver = elliott.ns.cloudflare.com
+example.com     nameserver = hera.ns.cloudflare.com
